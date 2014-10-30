@@ -1,0 +1,6 @@
+
+# nginx vhosts
+nginx/config/conf.d/*.conf
+
+# all log files
+logs/*.log
